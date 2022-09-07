@@ -1,0 +1,13 @@
+C:\Users\momi\source\repos\Prog2 Problema 1.4 (Proyecto Equipo)\bin\Debug\Prog2 Problema 1.4 (Proyecto Equipo).exe.config
+C:\Users\momi\source\repos\Prog2 Problema 1.4 (Proyecto Equipo)\bin\Debug\Prog2 Problema 1.4 (Proyecto Equipo).exe
+C:\Users\momi\source\repos\Prog2 Problema 1.4 (Proyecto Equipo)\bin\Debug\Prog2 Problema 1.4 (Proyecto Equipo).pdb
+C:\Users\momi\source\repos\Prog2 Problema 1.4 (Proyecto Equipo)\obj\Debug\Prog2 Problema 1.4 (Proyecto Equipo).csprojAssemblyReference.cache
+C:\Users\momi\source\repos\Prog2 Problema 1.4 (Proyecto Equipo)\obj\Debug\Prog2_Problema_1._4__Proyecto_Equipo_.Presentacion.FrmAgregarPersona.resources
+C:\Users\momi\source\repos\Prog2 Problema 1.4 (Proyecto Equipo)\obj\Debug\Prog2_Problema_1._4__Proyecto_Equipo_.FrmMenuPrincipal.resources
+C:\Users\momi\source\repos\Prog2 Problema 1.4 (Proyecto Equipo)\obj\Debug\Prog2_Problema_1._4__Proyecto_Equipo_.Properties.Resources.resources
+C:\Users\momi\source\repos\Prog2 Problema 1.4 (Proyecto Equipo)\obj\Debug\Prog2 Problema 1.4 (Proyecto Equipo).csproj.GenerateResource.cache
+C:\Users\momi\source\repos\Prog2 Problema 1.4 (Proyecto Equipo)\obj\Debug\Prog2 Problema 1.4 (Proyecto Equipo).csproj.CoreCompileInputs.cache
+C:\Users\momi\source\repos\Prog2 Problema 1.4 (Proyecto Equipo)\obj\Debug\Prog2 Problema 1.4 (Proyecto Equipo).exe
+C:\Users\momi\source\repos\Prog2 Problema 1.4 (Proyecto Equipo)\obj\Debug\Prog2 Problema 1.4 (Proyecto Equipo).pdb
+C:\Users\momi\source\repos\Prog2 Problema 1.4 (Proyecto Equipo)\obj\Debug\Prog2_Problema_1._4__Proyecto_Equipo_.Presentacion.FrmCrearEquipo.resources
+C:\Users\momi\source\repos\Prog2 Problema 1.4 (Proyecto Equipo)\obj\Debug\Prog2_Problema_1._4__Proyecto_Equipo_.Presentacion.ModificarEquipo.resources
